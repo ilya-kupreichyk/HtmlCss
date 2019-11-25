@@ -14,20 +14,18 @@ h1 {
     border-bottom: 1px solid black;
 }
 
-p.greentea {
-    color: green;
-.green-tea {
+p.green-tea {
     color: green;
 }
 
-.raspberry-syrup {
+p.raspberry-syrup {
     color: blue;
 }
 
-.drink-blueberry {
+p.drink-blueberry {
     color: purple;
 }
 
-.drink-cranberry {
+p.drink-cranberry {
 
 }
