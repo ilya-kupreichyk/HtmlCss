@@ -15,12 +15,6 @@ body {
   float: right;
 }
 
-#award {
-  position: absolute;
-  top: 30px;
-  left: 45%;
-}
-
 #drinks {
   display: table-cell;
   width: 20%;
@@ -88,12 +82,3 @@ a:visited {
   border-bottom:    thin dotted #675c47;
 }
 
-#coupon {
-  position: fixed;
-  top: 350px;
-  left: -90px;
-}
-
-#coupon a, img {
-  border: none;
-}
