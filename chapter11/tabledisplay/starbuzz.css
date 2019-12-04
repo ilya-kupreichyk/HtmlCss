@@ -11,14 +11,14 @@ body {
   height:           108px;
 }
 
-#header-Slogan {
+#header-slogan {
   float: right;
 }
 
 #award {
   position: absolute;
   top: 30px;
-  /*margin: auto;*/
+  left: 45%;
 }
 
 #drinks {
@@ -27,7 +27,6 @@ body {
   background-color: #efe5d0;
   padding: 15px;
   vertical-align: top;
-
 }
 
 #main {
@@ -48,13 +47,12 @@ body {
   vertical-align: top;
 }
 
-
 #footer {
   background-color: #675c47;
   color:            #efe5d0;
   text-align:       center;
   padding:          15px;
-  margin:           0 10px 10px 10px;
+  margin:          0 10px 10px 10px;
   font-size:        90%;
 }
 
@@ -88,4 +86,14 @@ a:visited {
   color:            #675c47;
   text-decoration:  none;
   border-bottom:    thin dotted #675c47;
+}
+
+#coupon {
+  position: fixed;
+  top: 350px;
+  left: -90px;
+}
+
+#coupon a, img {
+  border: none;
 }
